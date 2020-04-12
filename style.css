@@ -1,0 +1,26 @@
+
+
+body {
+  padding: 0;
+  margin-bottom: 0;
+  font-size: 18px;
+  line-height: 27px;
+  color: black;
+  background-color: #DEDEDE;
+}
+
+h1 {
+  padding: 10px;
+  margin: 0;
+  margin-bottom: 10px;
+  font-family:'Abril Fatface', cursive;
+}
+
+.container {
+  padding: 50px;
+  background-color: white;
+  width: auto;
+  margin: 40px auto;
+}
+
+@media screen and (max-width: 768px) {
